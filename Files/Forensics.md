@@ -8,7 +8,7 @@
 4. Ghex 
 5. Foremost ```foremost -T file ```
 6. dd ```dd if=file1 bs=1 skip=362201 of=file2``` (file1 is the initial file, skip 362201 bytes , store data in file2)
-7. pngcheck (for checking png chunks)
+7. pngcheck (for checking png chunks) ```pngcheck -v file``` (for details)
 8. zsteg (for LSB steganography in png) ``` zsteg -a file ```
 9. jsteg (for jpg files)
 10. Xiao steganography (for windows) (also applicable for wav)
@@ -36,6 +36,7 @@
 ### Random 
 
 1. We are given a zip file with name 60*50 and after extracting we get 3000 files. Upon looking closely it is clear we need to merge them to get a single image. [Script](../Scripts/7.py)
+2. We are given a .pcapng . One of the data packets contain a password to zip and the other contain zip but in reversed order. To extract the zip -> [script](../Scripts/8.py)
 
 ### Foobar CTF
 
