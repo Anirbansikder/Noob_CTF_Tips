@@ -14,6 +14,7 @@
     <img src="../Assets/sl.png">
 10. Another type of zip vuln -> 
     <img src="../Assets/zipvuln.png">
+11. [Deobfuscater and Unpacker](https://lelinhtinh.github.io/de4js/)
 
 <hr>
 

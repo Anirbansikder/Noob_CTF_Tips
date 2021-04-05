@@ -26,8 +26,16 @@
 20. Use [StegSnow](http://manpages.ubuntu.com/manpages/bionic/man1/stegsnow.1.html) ```stegsnow -C -p "hello world" outfile``` -p password
 21. There is also [Base91](https://www.dcode.fr/base-91-encoding) ;~; eg. ```l5VKJpn`Y!%/Ev#qOzj:j9tN;L```
 22. Use Sonic Visualizer >>> Audacity ```pane->spectogram```
+23. Extract Tar ```tar -xvf archive.tar.gz```
+24. [PNG Check and Correct](https://github.com/sherlly/PCRT) ```python PCRT.py -i infile -o outfile```
+25. [PNG Details](https://hackmd.io/@FlsYpINbRKixPQQVbh98kw/Sk_lVRCBr) Good Details about PNG.
+26. [Grocery List Esoteric](http://progopedia.com/language/grocery-list/)
 
 <hr>
+
+### Random 
+
+1. We are given a zip file with name 60*50 and after extracting we get 3000 files. Upon looking closely it is clear we need to merge them to get a single image. [Script](../Scripts/7.py)
 
 ### Foobar CTF
 
