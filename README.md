@@ -1,6 +1,6 @@
 # WRITEUPS
 
-1. [WEB](./Files/WEB.md)
-2. [CRYPTO](./Files/Crypto.md)
-3. [FORENSICS](./Files/Forensics.md)
-4. [REVERSE](./Files/Reverse.md)
+1. [WEB](./Files/WEB/WEB.md)
+2. [CRYPTO](./Files/Crypto/Crypto.md)
+3. [FORENSICS](./Files/Forensics/Forensics.md)
+4. [REVERSE](./Files/Reverse/Reverse.md)
