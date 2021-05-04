@@ -15,9 +15,12 @@
 10. Another type of zip vuln -> 
     <img src="../../Assets/zipvuln.png">
 11. [Deobfuscater and Unpacker](https://lelinhtinh.github.io/de4js/)
+12. You can try for sending HEAD request to a url.
 
 <hr>
 
 ### [FOOBAR CTF](./FoobarCTF.md)
 
 ### [ANGSTROM](./AngstromCTF.md)
+
+### [Random](./Random.md)
